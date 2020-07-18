@@ -5,10 +5,10 @@ This project requires ADB (Android Debugging Bridge) to be installed on your com
 Check out this article https://www.xda-developers.com/install-adb-windows-macos-linux/
 on xda-developers.com, it shows how to download ADB on Windows, MacOS and Linux.
 
-This projects requires the following imports (modules):
-from ppadb.client import Client as AdbClient (https://pypi.org/project/pure-python-adb/)
-from PIL import Image (https://pypi.org/project/Pillow/)
-import numpy (https://pypi.org/project/numpy/)
+This projects requires the following imports (modules):<br>
+from ppadb.client import Client as AdbClient (https://pypi.org/project/pure-python-adb/)<br>
+from PIL import Image (https://pypi.org/project/Pillow/)<br>
+import numpy (https://pypi.org/project/numpy/)<br>
 import math
 
 Unfortunately, because this project was originally written just for personal use, the script may not work on a screen
